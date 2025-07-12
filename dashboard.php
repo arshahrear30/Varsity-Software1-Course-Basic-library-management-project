@@ -54,7 +54,5 @@ if (!isset($_SESSION['username'])) {
 <ul>
     
     <li><a href="https://www.facebook.com/arshahrear.cse" target="_blank">A R Shahrear</a></li>
-    <li><a href="https://www.facebook.com/ahnaf.tanvir.942" target="_blank">Tanvir Ahmed</a></li>
-    <li><a href="https://www.facebook.com/sumon.arafat.reja.2024" target="_blank">Sumon Arafat Reja </a></li>
-    <li><a href="https://www.facebook.com/profile.php?id=100016928915093" target="_blank">Tawsif Wazed</a></li>
+
 </ul>
