@@ -50,7 +50,7 @@ if (!isset($_SESSION['username'])) {
 </html>
       
       <hr>
-<h2>Developers</h2>
+<h2>Developer</h2>
 <ul>
     
     <li><a href="https://www.facebook.com/arshahrear.cse" target="_blank">A R Shahrear</a></li>
