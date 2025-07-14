@@ -1,0 +1,16 @@
+[
+    {
+        "id": "011",
+        "name": "LIFE",
+        "author": "A R Shahrear",
+        "available": "n",
+        "readerId": "1"
+    },
+    {
+        "id": "2010",
+        "name": "The old man and the sea",
+        "author": "Ernest Hemingway ",
+        "available": "y",
+        "readerId": 0
+    }
+]
